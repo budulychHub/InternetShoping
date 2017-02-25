@@ -1,0 +1,49 @@
+button {
+	border: 2px solid black;
+	padding: 4px 14px;
+	background-color: #fff;
+	color: aqua;
+	text-transform: uppercase;
+	float: right;
+	margin: 5px 0;
+	font-weight: bold;
+	cursor: pointer;
+}
+
+span {
+	float: right;
+}
+
+.shopping-cart {
+	display: inline-block;
+	background:
+		url('http://cdn1.iconfinder.com/data/icons/jigsoar-icons/24/_cart.png')
+		no-repeat 0 0;
+	width: 24px;
+	height: 24px;
+}
+
+body {
+	margin: 0px;
+}
+
+nav {
+	padding: 24px;
+	text-align: center;
+	font-family: Raleway;
+	box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.5);
+}
+
+#nav-1 {
+	background: #3ea6dd;
+}
+
+.link-1 {
+	transition: 0.3s ease;
+	background: #3ea6dd;
+	color: #ffffff;
+	font-size: 20px;
+	text-decoration: none;
+	padding: 20px 0;
+	margin: 0 20px;
+}
